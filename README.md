@@ -73,7 +73,8 @@ Die Auswertung erfolgt in der aktuellen Variante größtenteils manuell. Wenn Si
 3. Commando um die Ergebnisse zu zählen: ```echo KEINGEWINN && ls -dq *KEINGEWINN* | wc -l && echo GEWINN && ls -dq GEWINN* | wc -l && echo FEEDBACK && ls -dq *rating_* | wc -l && echo RATINGS && head -n 1 rating_* -q && echo KOMMENTARE-000000000000 && head -n 2 rating_* -q```
 
 Sie erhalten eine Ausgabe ähnlich dieser:
-```KEINGEWINN
+```
+KEINGEWINN
 321
 GEWINN
 10
@@ -109,7 +110,8 @@ Kommentar: Tolles Spiel..
 ..
 .
 ```
- 
+
+
 
 # Konzeptionelle Tipps
 - Innerhalb eines Monates können Sie ca. 40-50% Ihrer Mitarbeiter erreichen. Rechnen Sie aber mit einer Laufzeit von 3-4 Monaten pro Spielkampangne. Sie können somit durchaus 2 Spiele pro Jahr organisieren.
