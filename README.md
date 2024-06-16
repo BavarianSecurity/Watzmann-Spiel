@@ -13,13 +13,13 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 
 1. Heimatnah: Bayerisches Wahrzeichen (“Watzmann”) schafft Nähe und Greifbarkeit.
 2. Zielgruppengerecht: Fragen waren konzipiert für den Büromitarbeiter im Behörde. Weitere Wanderpfade sind denkbar (z.B. rot für IT Personal).
-3. Anonym und frei von Skepsis: Teilnahme am Spiel und Verlosung war freiwillig und anonym. 
+3. Anonym und frei von Skepsis: Teilnahme am Spiel und Verlosung sollte freiwillig sein und ist anonym möglich. 
 4. Keine Leistungskontrolle - weder direkt noch indirekt möglich. 
 5. Kein Registrierungszwang.
 6. Privacy by Design.
-7. Persönliches Ziel: Der Spieler hatte die Aussicht auf einen persönlichen Sachpreis.
-8. Gruppenziel: Ein Gruppen-Bonus förderte das Gefühl der Zugehörigkeit. Teilnehmer sollten über das Thema diskutieren und nicht einsam spielen. 
-9. Selbstbestimmung: Hat ein Spieler gewonnen, bekam er eine Losnummer mit Prüf-PIN. Dieser diente als Gewinn-Nachweis. Der Spieler hatte stets die Kontrolle darüber, ob und wann er sich zu Erkennen geben möchte.
+7. Persönliches Ziel: Der Spieler soll eine Aussicht auf einen persönlichen Sachpreis haben.
+8. Gruppenziel: Ein Gruppen-Bonus fördert das Gefühl der Zugehörigkeit. Teilnehmer sollen über das Thema diskutieren und nicht einsam spielen. 
+9. Selbstbestimmung: Hat ein Spieler gewonnen, bekommt er eine Losnummer mit Prüf-PIN. Dieser dient als Gewinn-Nachweis. Der Spieler hat stets die Kontrolle darüber, ob und wann er sich zu Erkennen geben möchte.
 
 # Einrichtung (Aufwand: varriert zwischen 1h bis 12h)
 **Technische Empfehlungen**
