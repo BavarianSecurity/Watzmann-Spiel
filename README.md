@@ -59,12 +59,12 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 2. Richten Sie Moodle oder WordPress ein. Viele Hoster ermöglichen 1-Click Installationen. Nutzen Sie das.
 3. Installieren Sie das "H5P Plugin" in Moodle bzw. Wordpress.
 4. Erstellen Sie ein H5P-Projekt bzw. H5P-Seite. Laden Sie die Datei "Watzmann-Spiel-2024-06.h5p" hoch.
-5. Sie können nun per Drag & Drop Anpassungen am Spiel vornehmen. Ersetzen Sie jede Vorkommen von "XXX" durch eine geeigneten Inhalt, z.B. "Landratsamt XYZ". 
-6. 
-7. adsf
-8. asdf
-9. asdf
-10. 
+5. Sie können nun per Drag & Drop Anpassungen am Spiel vornehmen. Ersetzen Sie jede Vorkommen von "XXX" durch einen geeigneten Inhalt, z.B. "Landratsamt XYZ". 
+6. Laden Sie den Ordner "quiz" in ein Verzeichnis Ihrer Wahl in Ihrem Web-Server hoch (z.B. wwwroot).
+7. Ändern Sie in der Datei "losnummer.php" jede jede Vorkommen von "XXX" in einen geeigneten Inhalt, z.B. "Landratsamt XYZ" oder in eine Kontakt-eMail.  
+8. Ändern Sie ggf. die "Besitzer" und Ausführungsrechte so, dass die php Dateien ausgeführt werden dürfen.
+9. Kehren Sie zurück zum H5P Projekt bzw. Seite. In den H5P Einstellung in Moodle oder in Wordpress können Sie den "Endbildschirm" ändern. Ändern Sie den Link dort, dass dieser auf "losnummer.php" zeigt.
+10. Testen Sie das Spiel aus, und vergewissern Sie sich, dass Ihre Seite performant ist.
 
 # Betriebsanleitung (Aufwand: ca. 2h/wöchentlich)
 
