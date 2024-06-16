@@ -23,12 +23,18 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 Das Spiel können Sie unter https://training.bay-sec.de/plattform/mod/h5pactivity/view.php?id=92 kostenlos ausprobieren.
 
 # Einrichtung (Aufwand: varriert zwischen 2h bis 12h)
+
 **Ihre Optionen**
 Sie haben grundsätzlich folgende Optionen zur Verfügung. Anbei geben wir eine Orientierung mit Vor- und Nachteilen:
 - **Option 1 (empfohlen): CMS "WordPress" oder LMS "Moodle" als Basis.** Auf dieser Basis können Sie das Spiel hochladen, dort direkt per Drag&Drop anpassen. Vorteil ist: Sie haben später ein Sysetm für weitere Spiele und Kampagnen. Nachteil: Die Einrichtung eines solchen Systems bedeutet einen relativ hohen Grundaufwand. Dies kann 4h (schon mehrmals gemacht) oder 4 Tage dauern (Erstes Mal). Wir nutzen Moodle und haben damit die beste Performanz und Zuverlässigkeit erfahren. Auch WordPress hat uns zufrieden gestellt. Wenn Sie schon ein solches CMS/LMS haben, prüfen Sie bitte, ob dies eine externe Firma betreibt. In dem Fall brauchen Sie eine kommerzielle Lizenz bei uns.
 - Option 2: Sie haben schon ein CMS/LMS System durch einen Dienstleister? Oder Sie wollen Ihren externen Dienstleister damit beauftragen? Kein Problem: Fragen Sie bei uns an, gerne vergeben wir Ihnen oder Ihrem Dienstleister eine kommerzielle Lizenz.
 - Option 3: Stand-Alone Lösung. Sie brauchen oder haben kein CMS/LMS System? Dann können Sie das Spiel auch ohne  betreiben. Es gibt ebenfalls kostenlose Stand-Alone Server für H5P: https://github.com/tunapanda/h5p-standalone oder https://github.com/Lumieducation/H5P-Nodejs-library. Wir haben aber keine Erfahrung hinsichtlich Stabilität und Performanz, da wir das auch nicht so verwenden.
 - **Option 4 (empfohlen): Full Managed Service durch BaySec.** Beste User-Erfahrung. Wir kümmern uns um alles Technische, Sie erhalten von uns einen Link zum Spiel. Diesen können Sie sofort verteilen. In der ersten Woche erhalten Sie täglich einen Spiel-Bericht, danach wöchentlich. Mit dieser Variante haben Sie die beste Erfahrung. Auch ein eigener Server ist möglich. Die Pakete beginnen ab 2731.00 € pro Spiel-Kampagne. Es gibt Aufschläge für Größe, Austattung und weiteren Optionen (z.B. eigener Server).
+
+**Wichtiger Hinweis zur Logo Nutzung und Namensnennung:**
+
+Wichtiger Hinweis vorab: Wenn Sie die Software selbst einsetzen bzw. betreiben, verwenden Sie bitte nicht unser Logo und vermeiden Sie bitte den Eindruck zu riskieren, die BaySec wäre verantwortlich für die Service-Qualität.
+Ein unbedarfter Nutzer könnte ansonsten schnell schlussfolgern, dass die BaySec verantwortlich für den Service ist. Nur bei Option 4 ist die BaySec verantwortlich für die Service Qualität.
 
 **Technische Empfehlungen**
 
