@@ -25,7 +25,7 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 **Technische Empfehlungen**
 
 Software
-- H5P Gamification Engine (t.B. als Wordpress oder Moodle Plugin) 
+- H5P Gamification Engine (z.B. als Wordpress oder Moodle Plugin) 
 - Gute Erfahrungen mit Moodle und Wordpress, da fertige Plugins mit nahtloser Integration vorhanden.
 - Auch andere LMS Systeme möglich (z.B. OpenEdx)
 - Auch Stand-Alone möglich: LMS nicht zwingend notwendig.
