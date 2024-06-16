@@ -53,17 +53,18 @@ Hardware/Betriebssystem:
 
 Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als Projekt für einen Azubi.
 
-**Einrichtungsschritte**
+**Einrichtungsschritte am Beispiel Moodle / Wordpress**
 
-1. asdf
-2. asdf
-3. asdf
-4. asdf
-5. adsf
-6. adsf
-7. asdf
+1. Kaufen Sie einen vServer Ihrer Wahl bei einem Hoster. Tipp: Wählen Sie einen Hoster, bei dem Sie später kostenlos "Upgraden" können. Somit sind Sie flexibel. Sie können auch einen Webspace ausprobieren. Ob dies aber dann einwandfrei funktioniert hängt von Ihrem Provider ab.
+2. Richten Sie Moodle oder WordPress ein. Viele Hoster ermöglichen 1-Click Installationen. Nutzen Sie das.
+3. Installieren Sie das "H5P Plugin" in Moodle bzw. Wordpress.
+4. Erstellen Sie ein H5P-Projekt bzw. H5P-Seite. Laden Sie die Datei "Watzmann-Spiel-2024-06.h5p" hoch.
+5. Sie können nun per Drag & Drop Anpassungen am Spiel vornehmen. Ersetzen Sie jede Vorkommen von "XXX" durch eine geeigneten Inhalt, z.B. "Landratsamt XYZ". 
+6. 
+7. adsf
 8. asdf
-9. 
+9. asdf
+10. 
 
 # Betriebsanleitung (Aufwand: ca. 2h/wöchentlich)
 
