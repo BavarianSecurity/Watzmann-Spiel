@@ -9,17 +9,18 @@ Die Mitarbeiter werden in der Regel vom ISB per E-Mail Verteiler eingeladen. Die
 
 Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müssen alle Fragen richtig beantwortet und der Berg erklommen werden. Es sollten Sachpreise vorgesehen werden. Am Ende ist die Teilnahme an einer Verlosung möglich. Das Ergebnis wird sofort am Bildschirm angezeigt. Die Teilnahme am Spiel als auch an der Verlosung ist anonym - keine Registrierung notwendig.
 
-**Spiele-Konzept**
+**Vorschlag Spiele-Konzept**
 
 1. Heimatnah: Bayerisches Wahrzeichen (“Watzmann”) schafft Nähe und Greifbarkeit.
 2. Zielgruppengerecht: Fragen waren konzipiert für den Büromitarbeiter im Behörde. Weitere Wanderpfade sind denkbar (z.B. rot für IT Personal).
 3. Anonym und frei von Skepsis: Teilnahme am Spiel und Verlosung sollte freiwillig sein und ist anonym möglich. 
-4. Keine Leistungskontrolle - weder direkt noch indirekt möglich. 
-5. Kein Registrierungszwang.
-6. Privacy by Design.
+4. Privacy by Design: Keine Leistungskontrolle - weder direkt noch indirekt möglich. Kein Registrierungszwang.
 7. Persönliches Ziel: Der Spieler soll eine Aussicht auf einen persönlichen Sachpreis haben.
 8. Gruppenziel: Ein Gruppen-Bonus fördert das Gefühl der Zugehörigkeit. Teilnehmer sollen über das Thema diskutieren und nicht einsam spielen. 
 9. Selbstbestimmung: Hat ein Spieler gewonnen, bekommt er eine Losnummer mit Prüf-PIN. Dieser dient als Gewinn-Nachweis. Der Spieler hat stets die Kontrolle darüber, ob und wann er sich zu Erkennen geben möchte.
+
+# Demo
+
 
 # Einrichtung (Aufwand: varriert zwischen 1h bis 12h)
 **Technische Empfehlungen**
