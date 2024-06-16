@@ -22,7 +22,7 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 # Demo
 
 
-# Einrichtung (Aufwand: varriert zwischen 1h bis 12h)
+# Einrichtung (Aufwand: varriert zwischen 2h bis 12h)
 **Ihre Optionen**
 Sie haben grundsätzlich folgende Optionen zur Verfügung. Anbei geben wir eine Orientierung mit Vor- und Nachteilen:
 - **Option 1 (empfohlen): CMS "WordPress" oder LMS "Moodle" als Basis.** Auf dieser Basis können Sie das Spiel hochladen, dort direkt per Drag&Drop anpassen. Vorteil ist: Sie haben später ein Sysetm für weitere Spiele und Kampagnen. Nachteil: Die Einrichtung eines solchen Systems bedeutet einen relativ hohen Grundaufwand. Dies kann 4h (schon mehrmals gemacht) oder 4 Tage dauern (Erstes Mal). Wir nutzen Moodle und haben damit die beste Performanz und Zuverlässigkeit erfahren. Auch WordPress hat uns zufrieden gestellt. Wenn Sie schon ein solches CMS/LMS haben, prüfen Sie bitte, ob dies eine externe Firma betreibt. In dem Fall brauchen Sie eine kommerzielle Lizenz bei uns.
@@ -63,11 +63,12 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 6. Laden Sie den Ordner "quiz" in ein Verzeichnis Ihrer Wahl in Ihrem Web-Server hoch (z.B. wwwroot).
 7. Ändern Sie in der Datei "losnummer.php" jede Vorkommen von "XXX" in einen geeigneten Inhalt, z.B. "Landratsamt XYZ" oder in eine Kontakt-eMail.  
 8. Ändern Sie ggf. die "Besitzer" und Ausführungsrechte so, dass die php Dateien ausgeführt werden dürfen.
-9. Kehren Sie zurück zum H5P Projekt bzw. Seite. In den H5P Einstellung in Moodle oder in Wordpress können Sie den "Endbildschirm" ändern. Ändern Sie den Link dort, dass dieser auf "losnummer.php" zeigt.
+9. Kehren Sie zurück zum H5P Projekt bzw. Seite. In den H5P Einstellungen in Moodle oder in Wordpress können Sie den "Endbildschirm" ändern. Ändern Sie den Link dort, dass dieser auf "losnummer.php" zeigt.
 10. Testen Sie das Spiel aus, und vergewissern Sie sich, dass Ihre Seite performant ist.
 
 # Betriebsanleitung (Aufwand: ca. 2h/wöchentlich)
-
+Die Auswertung erfolgt in der aktuellen Variante größtenteils manuell. Wenn Sie den aktuell Spiel-Stand erfahren möchten, gehen Sie so vor:
+1. Login per SSH auf Ihren Server/Webspace: '''ssh user@212.132.126.149''' 
 
 # Konzeptionelle Tipps
 - Innerhalb eines Monates können Sie ca. 40-50% Ihrer Mitarbeiter erreichen. Rechnen Sie aber mit einer Laufzeit von 3-4 Monaten pro Spielkampangne. Sie können somit durchaus 2 Spiele pro Jahr organisieren.
