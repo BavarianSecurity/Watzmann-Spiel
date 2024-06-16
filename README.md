@@ -34,8 +34,10 @@ Software
 Hardware/Betriebssystem:
 - Virtuelle Maschine mit Linux (z.B. Ubuntu)
 - 1000MB/s Anbindung (empfohlen). 
-- Weitere Konfiguration abhängig von Größe der Organisation: Kann variieren zwischen 8-32 GB RAM, 4 oder 8 Core CPU. Bei Verwendung von Moodle: Pro Gigabyte Ram sind 10-20 **gleichzeitige** Zugriffe möglich.
-- Oft reicht auch ein 10€ Server von einem Discount Hoster aus (z.B. Strato). 
+- Weitere Konfiguration abhängig von Größe der Organisation: Kann variieren zwischen 8-32 GB RAM, 4 oder 8 Core CPU.
+- Erfahrungswert: Bei Verwendung von Moodle: Pro Gigabyte Ram sind 10-20 **gleichzeitige** Zugriffe möglich.
+- Mindestens 250 MB Speicher nur für das Spiel (zusätzlich Speicherbedarf für Betriebssystem und eventuell Ihr LMS)
+- Oft reicht auch ein 10€ Server von einem Discount Hoster aus (z.B. Strato).
 
 **Notwendiges Know-How**
 
