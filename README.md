@@ -67,6 +67,11 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 10. Testen Sie das Spiel aus, und vergewissern Sie sich, dass Ihre Seite performant ist.
 
 # Betriebsanleitung (Aufwand: ca. 2h/wöchentlich)
+**Funktionsweise**
+Wird ein Los gezogen, wird dieses entweder mit dem Prefox ```GEWINN-*``` oder ```KEINGEWINN-*``` gespeichert. Zudem wird die Prüfpin mitgespeichert. Diese entspricht einem Hashwert, welches auch die Zeit berücksichtigt. 
+Das hat den Vorteil, dass keine Datenbank-Schemas aufgebaut werden müssen und das Betriebssystem die Speicherung selbstständig managed. Für ein nicht-kritisches System, wie dieses hier, ohne personenbezogene Daten ein passender Ansatz.
+
+**Auswertung**
 Die Auswertung erfolgt in der aktuellen Variante größtenteils manuell. Wenn Sie den aktuell Spiel-Stand erfahren möchten, gehen Sie so vor:
 1. Login per SSH auf Ihren Server/Webspace: ```ssh user@212.132.126.149```
 2. Wechseln Sie zu Ihrem **quiz** Ordner: ```cd /var/www/vhosts/bay-sec.de/training.bay-sec.de/onlinetrainings/quiz```
@@ -111,7 +116,10 @@ Kommentar: Tolles Spiel..
 .
 ```
 
+Sie können die Bewertungen (zwischen RATINGS bis "KOMMENTARE-000000000000") in ein Excel kopieren und dort nach belieben auswerten. Die Bereiche "RATINGS" und "KOMMENTARE-000000000000" sind identisch. Nur hilfsweise werden diese doppelt ausgegeben.
 
+**So erkennen Sie potentielle Cheater**
+Wenn ein Los gezogen wird, wird dieses als Datei mit dem HTTP_REFERER gespeichert. Cheatet ein Spieler ist der Referer häufig leer bzw. unbekannt. In dem Fall wird im Los der Hinweis "Herkunft bekannt." gespeichert. Ansonsten wird gespeichert von welchem Ort (URL) aus das Los gezogen wurde. In einigen Fällen gibt es aber legitime Use-Cases, z.B. wenn der Benutzer eine **Do-Not-Track-Funktion aktiviert** hat.
 
 # Konzeptionelle Tipps
 - Innerhalb eines Monates können Sie ca. 40-50% Ihrer Mitarbeiter erreichen. Rechnen Sie aber mit einer Laufzeit von 3-4 Monaten pro Spielkampangne. Sie können somit durchaus 2 Spiele pro Jahr organisieren.
