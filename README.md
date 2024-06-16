@@ -33,7 +33,7 @@ Software
 - Eigens-entwickelte PHP Module für Bewertung und Verlosung
 
 Hardware/Betriebssystem:
-- Virtuelle Maschine mit Linux (z.B. Ubuntu)
+- Virtuelle Maschine mit Linux (getestet mit Ubuntu, andere funktionieren ähnlich und sollte kein Problem sein)
 - 1000MB/s Anbindung (empfohlen). 
 - Weitere Konfiguration abhängig von Größe der Organisation: Kann variieren zwischen 4-32 GB RAM, 2 bis 16 Core CPU.
 - Erfahrungswert: Bei Verwendung von Moodle: Pro Gigabyte Ram sind 10-20 **gleichzeitige** Zugriffe möglich.
