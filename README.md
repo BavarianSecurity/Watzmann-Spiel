@@ -61,7 +61,7 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 4. Erstellen Sie ein H5P-Projekt bzw. H5P-Seite. Laden Sie die Datei "Watzmann-Spiel-2024-06.h5p" hoch.
 5. Sie können nun per Drag & Drop Anpassungen am Spiel vornehmen. Ersetzen Sie jede Vorkommen von "XXX" durch einen geeigneten Inhalt, z.B. "Landratsamt XYZ". 
 6. Laden Sie den Ordner "quiz" in ein Verzeichnis Ihrer Wahl in Ihrem Web-Server hoch (z.B. wwwroot).
-7. Ändern Sie in der Datei "losnummer.php" jede jede Vorkommen von "XXX" in einen geeigneten Inhalt, z.B. "Landratsamt XYZ" oder in eine Kontakt-eMail.  
+7. Ändern Sie in der Datei "losnummer.php" jede Vorkommen von "XXX" in einen geeigneten Inhalt, z.B. "Landratsamt XYZ" oder in eine Kontakt-eMail.  
 8. Ändern Sie ggf. die "Besitzer" und Ausführungsrechte so, dass die php Dateien ausgeführt werden dürfen.
 9. Kehren Sie zurück zum H5P Projekt bzw. Seite. In den H5P Einstellung in Moodle oder in Wordpress können Sie den "Endbildschirm" ändern. Ändern Sie den Link dort, dass dieser auf "losnummer.php" zeigt.
 10. Testen Sie das Spiel aus, und vergewissern Sie sich, dass Ihre Seite performant ist.
