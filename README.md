@@ -25,14 +25,15 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 **Technische Empfehlungen**
 
 Software
-- H5P Gamification Engine 
-- Komfortable Integration in Moodle
+- H5P Gamification Engine (t.B. als Wordpress oder Moodle Plugin) 
+- Gute Erfahrungen mit Moodle und Wordpress, da fertige Plugins mit nahtloser Integration vorhanden.
 - Auch andere LMS Systeme möglich (z.B. OpenEdx)
 - Auch Stand-Alone möglich: LMS nicht zwingend notwendig.
 - Eigens-entwickelte PHP Module für Bewertung und Verlosung
 
 Hardware/Betriebssystem:
-- Virtuelle Maschine mit Linux (z.B. Ubuntu) und 1000MB/s Anbindung (empfohlen). 
+- Virtuelle Maschine mit Linux (z.B. Ubuntu)
+- 1000MB/s Anbindung (empfohlen). 
 - Weitere Konfiguration abhängig von Größe der Organisation: Kann variieren zwischen 8-32 GB RAM, 4 oder 8 Core CPU. Bei Verwendung von Moodle: Pro Gigabyte Ram sind 10-20 **gleichzeitige** Zugriffe möglich.
 - Oft reicht auch ein 10€ Server von einem Discount Hoster aus (z.B. Strato). 
 
