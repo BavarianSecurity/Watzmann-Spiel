@@ -23,6 +23,13 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 
 
 # Einrichtung (Aufwand: varriert zwischen 1h bis 12h)
+**Ihre Optionen**
+Sie haben grundsätzlich folgende Optionen zur Verfügung. Anbei geben wir eine Orientierung mit Vor- und Nachteilen:
+- **Option 1 (empfohlen): CMS "WordPress" oder LMS "Moodle" als Basis.** Auf dieser Basis können Sie das Spiel hochladen, dort direkt per Drag&Drop anpassen. Vorteil ist: Sie haben später ein Sysetm für weitere Spiele und Kampagnen. Nachteil: Die Einrichtung eines solchen Systems bedeutet einen relativ hohen Grundaufwand. Dies kann 4h (schon mehrmals gemacht) oder 4 Tage dauern (Erstes Mal). Wir nutzen Moodle und haben damit die beste Performanz und Zuverlässigkeit erfahren. Auch WordPress hat uns zufrieden gestellt. Wenn Sie schon ein solches CMS/LMS haben, prüfen Sie bitte, ob dies eine externe Firma betreibt. In dem Fall brauchen Sie eine kommerzielle Lizenz bei uns.
+- Option 2: Sie haben schon ein CMS/LMS System durch einen Dienstleister? Oder Sie wollen Ihren externen Dienstleister damit beauftragen? Kein Problem: Fragen Sie bei uns an, gerne vergeben wir Ihnen oder Ihrem Dienstleister eine kommerzielle Lizenz.
+- Option 3: Stand-Alone Lösung. Sie brauchen oder haben kein CMS/LMS System? Dann können Sie das Spiel auch ohne  betreiben. Es gibt ebenfalls kostenlose Stand-Alone Server für H5P: https://github.com/tunapanda/h5p-standalone oder https://github.com/Lumieducation/H5P-Nodejs-library. Wir haben aber keine Erfahrung hinsichtlich Stabilität und Performanz, da wir das auch nicht so verwenden.
+- **Option 4 (empfohlen): Full Managed Service durch BaySec.** Beste User-Erfahrung. Wir kümmern uns um alles technische, Sie erhalten von uns einen Link zum Spiel. Diesen können Sie sofort verteilen. In der ersten Woche erhalten Sie täglich einen Spiel-Bericht, danach wöchentlich. Mit dieser Variante haben Sie die beste Erfahrung. Auch ein eigener Server ist möglich. Die Pakete variieren je nach Austattung und Größe zwischen 2731.00 € und 6310.00 € pro Kampangne.
+
 **Technische Empfehlungen**
 
 Software
@@ -31,7 +38,9 @@ Software
 - Auch andere LMS Systeme möglich (z.B. OpenEdx)
 - Auch Stand-Alone möglich: LMS nicht zwingend notwendig.
 - Eigens-entwickelte PHP Module für Bewertung und Verlosung
-
+- Aktivieren Sie eine IP-Anonymisierung (z.B. über Plesk)
+- Setzen Sie das RAM-Limit Ihrer PHP Konfiguration so, dass der Arbeitsspeicher bestmöglich ausgenutzt wird.
+  
 Hardware/Betriebssystem:
 - Virtuelle Maschine mit Linux (getestet mit Ubuntu, andere funktionieren ähnlich und sollte kein Problem sein)
 - 1000MB/s Anbindung (empfohlen). 
