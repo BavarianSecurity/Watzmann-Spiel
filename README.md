@@ -20,7 +20,7 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 9. Selbstbestimmung: Hat ein Spieler gewonnen, bekommt er eine Losnummer mit Prüf-PIN. Dieser dient als Gewinn-Nachweis. Der Spieler hat stets die Kontrolle darüber, ob und wann er sich zu Erkennen geben möchte.
 
 # Demo
-
+Das Spiel können Sie unter https://training.bay-sec.de/plattform/mod/h5pactivity/view.php?id=92 kostenlos ausprobieren.
 
 # Einrichtung (Aufwand: varriert zwischen 2h bis 12h)
 **Ihre Optionen**
