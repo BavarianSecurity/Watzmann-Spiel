@@ -68,7 +68,8 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 
 # Betriebsanleitung (Aufwand: ca. 2h/wöchentlich)
 Die Auswertung erfolgt in der aktuellen Variante größtenteils manuell. Wenn Sie den aktuell Spiel-Stand erfahren möchten, gehen Sie so vor:
-1. Login per SSH auf Ihren Server/Webspace: '''ssh user@212.132.126.149''' 
+1. Login per SSH auf Ihren Server/Webspace: ```ssh user@212.132.126.149```
+ 
 
 # Konzeptionelle Tipps
 - Innerhalb eines Monates können Sie ca. 40-50% Ihrer Mitarbeiter erreichen. Rechnen Sie aber mit einer Laufzeit von 3-4 Monaten pro Spielkampangne. Sie können somit durchaus 2 Spiele pro Jahr organisieren.
