@@ -63,7 +63,7 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 6. Laden Sie den Ordner ```quiz``` in ein Verzeichnis Ihrer Wahl in Ihrem Web-Server hoch (z.B. ```wwwroot```).
 7. Ändern Sie in der Datei "losnummer.php" jede Vorkommen von ```XXX``` in einen geeigneten Inhalt, z.B. "Landratsamt XYZ" oder in eine Kontakt-eMail.  
 8. Ändern Sie ggf. die "Besitzer" und Ausführungsrechte so, dass die php Dateien ausgeführt werden dürfen.
-9. Kehren Sie zurück zum H5P Projekt bzw. Seite. In den H5P Einstellungen in Moodle oder in Wordpress können Sie den "Endbildschirm" ändern. Ändern Sie den Link dort, dass dieser auf "losnummer.php" zeigt.
+9. Kehren Sie zurück zum H5P Projekt bzw. Seite. In den H5P Einstellungen in Moodle oder in Wordpress können Sie den "Endbildschirm" ändern. Ändern Sie den Link dort, dass dieser auf "losnummer.php" zeigt. Und passen Sie den Endbildschirm so an, dass bei erfolgreichem Ende das Video "Watzmann-Spiel-Animation_Ende.mp4" abgespielt wird.
 10. Testen Sie das Spiel aus, und vergewissern Sie sich, dass Ihre Seite performant ist.
 
 # Betriebsanleitung (Aufwand: ca. 2h/wöchentlich)
