@@ -22,7 +22,7 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 # Demo
 Das Spiel können Sie unter https://training.bay-sec.de/plattform/mod/h5pactivity/view.php?id=92 kostenlos ausprobieren.
 
-# Einrichtung (Aufwand: varriert zwischen 2h bis 12h)
+# Einrichtung (Aufwand: varriert zwischen 2h bis 48h oder mehr)
 
 **Ihre Optionen**
 Sie haben grundsätzlich folgende Optionen zur Verfügung. Anbei geben wir eine Orientierung mit Vor- und Nachteilen:
