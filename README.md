@@ -125,7 +125,7 @@ Kommentar: Tolles Spiel..
 Sie können die Bewertungen (zwischen RATINGS bis "KOMMENTARE-000000000000") in ein Excel kopieren und dort nach belieben auswerten. Die Bereiche "RATINGS" und "KOMMENTARE-000000000000" sind identisch. Nur hilfsweise werden diese doppelt ausgegeben.
 
 **So erkennen Sie potenzielle Cheater**
-Wenn ein Los gezogen wird, wird dieses als Datei mit dem HTTP_REFERER gespeichert. Cheatet ein Spieler ist der Referer häufig leer bzw. unbekannt. In dem Fall wird im Los der Hinweis "Herkunft bekannt." gespeichert. Ansonsten wird gespeichert von welchem Ort (URL) aus das Los gezogen wurde. In einigen Fällen gibt es aber legitime Use-Cases, z.B. wenn der Benutzer eine **Do-Not-Track-Funktion aktiviert** hat.
+Wenn ein Los gezogen wird, wird dieses als Datei mit dem HTTP_REFERER gespeichert. Cheatet ein Spieler ist der Referer häufig leer bzw. unbekannt. In dem Fall wird im Los der Hinweis "Herkunft unbekannt." gespeichert. Ansonsten wird gespeichert von welchem Ort (URL) aus das Los gezogen wurde. In einigen Fällen gibt es aber legitime Use-Cases, z.B. wenn der Benutzer eine **Do-Not-Track-Funktion aktiviert** hat.
 
 # Konzeptionelle Tipps
 - Innerhalb eines Monates können Sie ca. 40-50% Ihrer Mitarbeiter erreichen. Rechnen Sie aber mit einer Laufzeit von 3-4 Monaten pro Spielkampagne. Sie können somit durchaus 2 Spiele pro Jahr organisieren.
