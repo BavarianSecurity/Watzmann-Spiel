@@ -12,7 +12,7 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 **Vorschlag Spiele-Konzept**
 
 1. Heimatnah: Bayerisches Wahrzeichen (“Watzmann”) schafft Nähe und Greifbarkeit.
-2. Zielgruppengerecht: Fragen waren konzipiert für den Büromitarbeiter im Behörde. Weitere Wanderpfade sind denkbar (z.B. rot für IT Personal).
+2. Zielgruppengerecht: Fragen waren konzipiert für den Büromitarbeiter in einer Behörde. Weitere Wanderpfade sind denkbar (z.B. rot für IT Personal).
 3. Anonym und frei von Skepsis: Teilnahme am Spiel und Verlosung sollte freiwillig sein und ist anonym möglich. 
 4. Privacy by Design: Keine Leistungskontrolle - weder direkt noch indirekt möglich. Kein Registrierungszwang.
 7. Persönliches Ziel: Der Spieler soll eine Aussicht auf einen persönlichen Sachpreis haben.
@@ -22,14 +22,14 @@ Ein Hacker hat sich am Watzmann-Gipfel eingenistet. Um ihn zu vertreiben, müsse
 # Demo
 Das Spiel können Sie unter https://training.bay-sec.de/plattform/mod/h5pactivity/view.php?id=92 kostenlos ausprobieren.
 
-# Einrichtung (Aufwand: varriert zwischen 2h bis 48h oder mehr)
+# Einrichtung (Aufwand: variiert zwischen 2h bis 48h oder mehr)
 
 **Ihre Optionen**
 Sie haben grundsätzlich folgende Optionen zur Verfügung. Anbei geben wir eine Orientierung mit Vor- und Nachteilen:
-- **Option 1 (empfohlen): CMS "WordPress" oder LMS "Moodle" als Basis.** Auf dieser Basis können Sie das Spiel hochladen, dort direkt per Drag&Drop anpassen. Vorteil ist: Sie haben später ein Sysetm für weitere Spiele und Kampagnen. Nachteil: Die Einrichtung eines solchen Systems bedeutet einen relativ hohen Grundaufwand. Dies kann 4h (schon mehrmals gemacht) oder 4 Tage dauern (Erstes Mal). Wir nutzen Moodle und haben damit die beste Performanz und Zuverlässigkeit erfahren. Auch WordPress hat uns zufrieden gestellt. Wenn Sie schon ein solches CMS/LMS haben, prüfen Sie bitte, ob dies eine externe Firma betreibt. In dem Fall brauchen Sie eine kommerzielle Lizenz bei uns.
+- **Option 1 (empfohlen): CMS "WordPress" oder LMS "Moodle" als Basis.** Auf dieser Basis können Sie das Spiel hochladen, dort direkt per Drag&Drop anpassen. Vorteil ist: Sie haben später ein System für weitere Spiele und Kampagnen. Nachteil: Die Einrichtung eines solchen Systems bedeutet einen relativ hohen Grundaufwand. Dies kann 4h (schon mehrmals gemacht) oder 4 Tage dauern (Erstes Mal). Wir nutzen Moodle und haben damit die beste Performanz und Zuverlässigkeit erfahren. Auch WordPress hat uns zufriedengestellt. Wenn Sie schon ein solches CMS/LMS haben, prüfen Sie bitte, ob dies eine externe Firma betreibt. In dem Fall brauchen Sie eine kommerzielle Lizenz bei uns.
 - Option 2: Sie haben schon ein CMS/LMS System durch einen Dienstleister? Oder Sie wollen Ihren externen Dienstleister damit beauftragen? Kein Problem: Fragen Sie bei uns an, gerne vergeben wir Ihnen oder Ihrem Dienstleister eine kommerzielle Lizenz.
 - Option 3: Stand-Alone Lösung. Sie brauchen oder haben kein CMS/LMS System? Dann können Sie das Spiel auch ohne  betreiben. Es gibt ebenfalls kostenlose Stand-Alone Server für H5P: https://github.com/tunapanda/h5p-standalone oder https://github.com/Lumieducation/H5P-Nodejs-library. Wir haben aber keine Erfahrung hinsichtlich Stabilität und Performanz, da wir das auch nicht so verwenden.
-- **Option 4 (empfohlen): Full Managed Service durch BaySec.** Beste User-Erfahrung. Wir kümmern uns um alles Technische, Betrieb und Management, Sie erhalten von uns einen Link zum Spiel. Diesen können Sie sofort verteilen. In der ersten Woche erhalten Sie täglich einen Spiel-Bericht, danach wöchentlich. Mit dieser Variante haben Sie die beste Erfahrung. Auch ein eigener Server ist möglich. Die Pakete beginnen ab 2731.00 € pro Spiel-Kampagne. Es gibt Aufschläge für Größe, Austattung und weiteren Optionen (z.B. eigener Server).
+- **Option 4 (empfohlen): Full Managed Service durch BaySec.** Beste User-Erfahrung. Wir kümmern uns um alles Technische, Betrieb und Management, Sie erhalten von uns einen Link zum Spiel. Diesen können Sie sofort verteilen. In der ersten Woche erhalten Sie täglich einen Spiel-Bericht, danach wöchentlich. Mit dieser Variante haben Sie die beste Erfahrung. Auch ein eigener Server ist möglich. Die Pakete beginnen ab 2731.00 € pro Spiel-Kampagne. Es gibt Aufschläge für Größe, Ausstattung und weiteren Optionen (z.B. eigener Server).
 
 **Wichtiger Hinweis zur Logo Nutzung und Namensnennung:**
 
@@ -50,8 +50,8 @@ Software
 Hardware/Betriebssystem:
 - Virtuelle Maschine mit Linux (getestet mit Ubuntu, andere funktionieren ähnlich und sollte kein Problem sein)
 - 1000MB/s Anbindung (empfohlen). 
-- Weitere Konfiguration abhängig von Größe der Organisation: Kann variieren zwischen 4-32 GB RAM, 2 bis 16 Core CPU.
-- Erfahrungswert: Bei Verwendung von Moodle: Pro Gigabyte Ram sind 10-20 **gleichzeitige** Zugriffe möglich.
+- Weitere Konfiguration abhängig von Größe der Organisation: Kann variieren zwischen 4 und 32 GB RAM, 2 bis 16 Core CPU.
+- Erfahrungswert: Bei Verwendung von Moodle: Pro Gigabyte RAM sind 10-20 **gleichzeitige** Zugriffe möglich.
 - Mindestens 250 MB Speicher nur für das Spiel (zusätzlich Speicherbedarf für Betriebssystem und eventuell Ihr LMS)
 - Oft reicht auch ein 10€ Server von einem Discount Hoster aus (z.B. Strato).
 
@@ -61,7 +61,7 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 
 **Einrichtungsschritte am Beispiel Moodle / Wordpress**
 
-1. Kaufen Sie einen vServer Ihrer Wahl bei einem Hoster. Tipp: Wählen Sie einen Hoster, bei dem Sie später kostenlos "Upgraden" können. Somit sind Sie flexibel. Sie können auch einen Webspace ausprobieren. Ob dies aber dann einwandfrei funktioniert hängt von Ihrem Provider ab.
+1. Kaufen Sie einen vServer Ihrer Wahl bei einem Hoster. Tipp: Wählen Sie einen Hoster, bei dem Sie später kostenlos "upgraden" und "downgraden" können. Somit sind Sie flexibel. Sie können auch einen Webspace ausprobieren. Ob dies aber dann einwandfrei funktioniert hängt von Ihrem Provider ab.
 2. Richten Sie Moodle oder WordPress ein. Viele Hoster ermöglichen 1-Click Installationen. Nutzen Sie das.
 3. Installieren Sie das "H5P Plugin" in Moodle bzw. Wordpress.
 4. Erstellen Sie ein H5P-Projekt bzw. H5P-Seite. Laden Sie die Datei "Watzmann-Spiel-2024-06.h5p" hoch.
@@ -74,7 +74,7 @@ Technisches Know-How ist notwendig: Administrator oder Entwickler. Auch gut als 
 
 # Betriebsanleitung (Aufwand: ca. 2h/wöchentlich)
 **Funktionsweise**
-Wird ein Los gezogen, wird dieses entweder mit dem Prefox ```GEWINN-*``` oder ```KEINGEWINN-*``` gespeichert. Zudem wird die Prüfpin mitgespeichert. Diese entspricht einem Hashwert, welches auch die Zeit berücksichtigt. 
+Wird ein Los gezogen, wird dieses entweder mit dem Prefix ```GEWINN-*``` oder ```KEINGEWINN-*``` gespeichert. Zudem wird die Prüf-PIN mitgespeichert. Diese entspricht einem Hashwert, welches auch die Zeit berücksichtigt. 
 Das hat den Vorteil, dass keine Datenbank-Schemas aufgebaut werden müssen und das Betriebssystem die Speicherung selbstständig managed. Für ein nicht-kritisches System, wie dieses hier, ohne personenbezogene Daten ein passender Ansatz.
 
 **Auswertung**
@@ -124,11 +124,11 @@ Kommentar: Tolles Spiel..
 
 Sie können die Bewertungen (zwischen RATINGS bis "KOMMENTARE-000000000000") in ein Excel kopieren und dort nach belieben auswerten. Die Bereiche "RATINGS" und "KOMMENTARE-000000000000" sind identisch. Nur hilfsweise werden diese doppelt ausgegeben.
 
-**So erkennen Sie potentielle Cheater**
+**So erkennen Sie potenzielle Cheater**
 Wenn ein Los gezogen wird, wird dieses als Datei mit dem HTTP_REFERER gespeichert. Cheatet ein Spieler ist der Referer häufig leer bzw. unbekannt. In dem Fall wird im Los der Hinweis "Herkunft bekannt." gespeichert. Ansonsten wird gespeichert von welchem Ort (URL) aus das Los gezogen wurde. In einigen Fällen gibt es aber legitime Use-Cases, z.B. wenn der Benutzer eine **Do-Not-Track-Funktion aktiviert** hat.
 
 # Konzeptionelle Tipps
-- Innerhalb eines Monates können Sie ca. 40-50% Ihrer Mitarbeiter erreichen. Rechnen Sie aber mit einer Laufzeit von 3-4 Monaten pro Spielkampangne. Sie können somit durchaus 2 Spiele pro Jahr organisieren.
+- Innerhalb eines Monates können Sie ca. 40-50% Ihrer Mitarbeiter erreichen. Rechnen Sie aber mit einer Laufzeit von 3-4 Monaten pro Spielkampagne. Sie können somit durchaus 2 Spiele pro Jahr organisieren.
 - Wenn Sie das Spiel verändern, sollte das Konzept für die Teilnehmer attraktiv bleiben:
 - Ein großer Aufwand ging in die Erstellung der Fragen und den Feinschliff drauf. Verändern Sie bei den Fragen nur den Text punktuell und ändern Sie die grundsätzliche Struktur der Fragen am Besten gar nicht. Es schleichen sich schnell Fehler ein (z.B. Tippfehler, inkonsistente Fragestellung, etc.)
 - Wenn Sie Änderungen durchführen, versuchen Sie dies stets aus der Perspektive des Spielers zu sehen, z.B. versteht eine Mitarbeiterin eines Fachverfahrens wirklich was “Social Engineering” ist? Verwenden Sie lieber deutsche Bezeichnungen, die alle Verstehen können, z.B. “Personifizierung”.
