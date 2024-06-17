@@ -79,7 +79,7 @@ Das hat den Vorteil, dass keine Datenbank-Schemas aufgebaut werden müssen und d
 
 **Auswertung**
 Die Auswertung erfolgt in der aktuellen Variante größtenteils manuell. Wenn Sie den aktuell Spiel-Stand erfahren möchten, gehen Sie so vor:
-1. Login per SSH auf Ihren Server/Webspace: ```ssh user@212.132.126.149```
+1. Login per SSH auf Ihren Server/Webspace: ```ssh user@212.212.212.212```
 2. Wechseln Sie zu Ihrem **quiz** Ordner: ```cd /var/www/vhosts/bay-sec.de/training.bay-sec.de/onlinetrainings/quiz```
 3. Commando um die Ergebnisse zu zählen: ```echo KEINGEWINN && ls -dq *KEINGEWINN* | wc -l && echo GEWINN && ls -dq GEWINN* | wc -l && echo FEEDBACK && ls -dq *rating_* | wc -l && echo RATINGS && head -n 1 rating_* -q && echo KOMMENTARE-000000000000 && head -n 2 rating_* -q```
 
