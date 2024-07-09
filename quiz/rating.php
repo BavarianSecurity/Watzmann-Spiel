@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Feedback speichern
     $file = fopen("rating_". md5(date('d.m.Y H:i:s.u')), "a");
     if ($file) {
-        fwrite($file, "Bewertung: $rating, Kommentar: $comment\n\n");
+        fwrite($file, "Rating: $rating, Comment: $comment\n\n");
         fclose($file);
         echo "Vielen Dank für Ihr Feedback!";
     } else {
